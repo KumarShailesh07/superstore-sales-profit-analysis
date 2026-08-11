@@ -165,8 +165,6 @@ Examples:
 
 ## 📷 Dashboard Screenshots
 
-> Place your exported PNG/JPG images inside a `screenshots/` folder in the repo root, using the filenames below (or update the paths to match your own).
-
 ### 1. Executive Overview
 <img width="599" height="338" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/a1589ddf-ed73-4bdd-a726-91b619a1e01d" />
 
