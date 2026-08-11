@@ -163,6 +163,31 @@ Examples:
 
 ---
 
+## 📷 Dashboard Screenshots
+
+> Place your exported PNG/JPG images inside a `screenshots/` folder in the repo root, using the filenames below (or update the paths to match your own).
+
+### 1. Executive Overview
+<img width="599" height="338" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/a1589ddf-ed73-4bdd-a726-91b619a1e01d" />
+
+
+### 2. Product & Profitability
+<img width="602" height="338" alt="Product   Profitability Analysis Dashboard" src="https://github.com/user-attachments/assets/7105d844-91b9-40ba-8882-eb548cacd148" />
+
+
+### 3. Regional Analysis
+<img width="602" height="338" alt="Regional   Geographic Analysis Dashboard" src="https://github.com/user-attachments/assets/9494a124-292e-42db-984d-10d1e82e6a25" />
+
+### 4. Customer Intelligence
+<img width="599" height="336" alt="Customer Intelligence Analysis Dashboard" src="https://github.com/user-attachments/assets/a8c5df5b-195d-4ec0-a32c-7d0850ca8c0c" />
+
+
+### 5. Insights & Recommendations
+<img width="602" height="206" alt="Insights and  Recommendations" src="https://github.com/user-attachments/assets/301317fa-e998-45e4-a4ec-9a237b8b51c1" />
+
+
+---
+
 ## 🔍 Business Impact
 
 ✔ Identified **profit leakage due to discounting**  
